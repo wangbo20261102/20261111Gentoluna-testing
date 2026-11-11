@@ -1,0 +1,3 @@
+{"configured_arm_velocity_ratio": 20, "configured_arm_acceleration_ratio": 20, "backup": "/home/nvidia/gento-test-baseline/backups/speed20-20261111-110040", "motion_commands_sent": 0}
+{"controller20_verified": true, "state": "Position", "error": 0, "j7_deg": -41.368, "velocity_ratio": 20.0, "acceleration_ratio": 20.0, "preflight_path_valid": true, "motion_commands_sent": 0}
+测试控制权已交还。

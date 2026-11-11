@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-11",
+  "scope": "ARM1 J7, initial -10 deg, five +20/-20 cycles, 20 percent; package generation does not run motion",
+  "files": [
+    {
+      "file": "controller_20percent_verified.txt",
+      "bytes": 408,
+      "sha256": "097836b50cd21a9812e670c1d8a731e8af7db268725b3b2c6e56ecde80c97d67"
+    },
+    {
+      "file": "Gento_Luna_测试基线.json",
+      "bytes": 1085,
+      "sha256": "7a42fb3d92158165b04c08d141769204c213bd3ad17031b2829d6f60c6f29d1f"
+    },
+    {
+      "file": "run_right_arm_5cycles.py",
+      "bytes": 17289,
+      "sha256": "74b32368851ad554d135360fae5acf1e6ee50b99f3358031e775b6a7d2a984d4"
+    },
+    {
+      "file": "start_right_arm_test.cmd",
+      "bytes": 100,
+      "sha256": "bf119c244a26c8a4884e80717fec91181cf7a5c2e6778884faad2c914fc57e33"
+    },
+    {
+      "file": "verify_program_offline.py",
+      "bytes": 4371,
+      "sha256": "74ab5dad4f2f8aef3dce4970d48fff953436f4588f5b487af7a3c182d724ea71"
+    },
+    {
+      "file": "开发文档.md",
+      "bytes": 15135,
+      "sha256": "2224c9ede4b2fd4c69709406aa30eefe7bf0a7d30f245c4844b4da31d59310c6"
+    }
+  ]
+}
